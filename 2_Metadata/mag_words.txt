@@ -1,0 +1,34 @@
+activated carbon metagenome
+aquifer metagenome
+BACL
+derived from metagenome
+freshwater metagenome
+glacier metagenome
+groundwater metagenome
+indoor metagenome
+lake water metagenome
+landfill metagenome
+marine metagenome
+metagenome
+metagenome assembled genome
+Metagenome-Assembled Genome (MAG)
+Metagenome-Assembled Genome
+Metagenome.environmental.1.0
+metagenomic
+metagenomic assembled genomes
+metagenomic assembled genome
+metagenomic assembly
+Metagenomic Assembly
+Metagenomics
+microbial mat metagenome
+mine drainage metagenome
+phyllosphere metagenome
+plant metagenome
+recovered from metagenomes
+rock porewater metagenome
+soda lake metagenome
+soil metagenome
+sponge metagenome
+symbiont metagenome
+
+

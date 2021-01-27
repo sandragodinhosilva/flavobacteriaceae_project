@@ -1,0 +1,510 @@
+activated sludge
+Activated sludge form a lab-scale nitrification reactor
+Activated sludge from a full-scale wastewater treatment plant
+aeolian lake
+agricultural site
+agricultural soil
+air
+alluvial paddy field soil
+alluvial sediment
+alluvial soil
+alluvium
+alpine
+alpine tundra
+amictic lake
+Ammonium sulfate bioreactor
+An opportunistic human pathogen
+anaerobic digester sludge
+anaerobic digestion of organic wastes under variable temperature conditions and feedstocks
+anaerobic mud
+anaerobic sludge
+Anas platyrhynchos (duck)
+Anopheles coluzzii
+Anopheles gambiae G3 lab strain; Anopheles gambiae lab colony
+Anopheles gambiae lab colony
+Anopheles sinensis
+anoxic lake
+anthropogenic environmental material
+anthropogenic terrestrial
+anthrosol
+Aphanizomenon
+Apis cerana
+Apis dorsata
+aquifer metagenome
+Arabidopsis thaliana
+arable soil
+area of cropland
+artificial lake
+asphalt
+asphalt lake
+Asterionella formosa BG1
+atmosphere and water column exposed melt pond
+atmosphere-exposed melt pond
+Bacteria isolated from waterfall
+Bacterial sample isolated from tree-holes from the root buttresses of beech trees (Fagus sylvatica) between August 2013 and April 2014 from locations across the south of England.
+Bactrocera oleae
+bagasse
+basalt
+Bat
+bedrock
+bedside rail in hospital intensive care unit
+beech forest soil
+biochar
+Biofilm grown on the Cathode of a Microbial Fuel Cell (Biofilm MCL)
+biofilm on acrylic surface
+biogas
+bioreactor sludge
+biosolids
+blood
+bore hole water
+Brassica rapa subsp. oleifera
+broadleaf forest
+bulk soil
+Caenorhabditis briggsae
+calf
+cambisol
+Camellia sinensis
+Capsicum annuum (pepper)
+Carnivorous Plant Phytotelma
+cat gingiva
+cat oral cavity
+Cat, Felis catus
+Channel catfish
+charcoal
+Chicken
+child
+Ciconia boyciana
+clay
+clinic
+clinical
+clinical isolate
+coal
+coal bed cutting
+coastal seawater in the East Sea of Korea, at a depth of 100 m
+coke
+compost
+compost soil
+concrete
+coniferous forest
+construction timber
+contaminated commercial preparation of carboxipeptidase A
+contaminated soil
+contaminated water
+Cottonwood poplar, Populus deltoides
+Cottonwood poplar, Populus deltoides
+cow
+Cow, Bos taurus
+crater lake
+cropland
+Crotalaria pallida
+Cryoprecipitate, transfusion reaction
+crystal
+Ctenopharyngodon idella (grass carp)
+Cucumber, Cucumis sativus
+Deciduous woodland, University campus
+deep well
+Dehydrated sludge of the municipal sewage
+dense settlement
+desert
+desert sand
+deteriorated polyurethane foam collected in a landfill
+detritus
+distilled water
+ditch water
+Dog, Canis lupus familiaris
+drinking water
+drinking water (ENVO:00003064)
+drinking water (purified)
+Drinking water distribution network
+drinking water system-before chlorination
+drinking water system-WM
+Drinking water treatment plant
+dry soil
+Duck
+Duck blood
+Duck, Anas platyrhynchos
+Duckling
+Dugesia japonica
+dust
+emulsion
+endorheic lake
+Endosphere
+env_biome:hospital
+Environmental; Soil; Terrestrial
+ENVO:00009003
+Equine Stall
+eutrophic lake
+eutrophic water
+exorheic lake
+farm
+farm soil
+farmyard manure
+Feather enriched garden soil
+Feces of three-weeks old elephant
+Felis catus
+fertilized soil
+fetus
+field soil
+flame
+flooded grassland
+flooded savanna
+fluvisol
+foam
+fog
+forest
+forest mud
+forest soil
+forest soil communities across North America
+Formosa sp. AK20, Gram-negative bacterium was isolated from sea water sample collected at a depth of 30m from Kochi offshore, Kerala, India.
+freshwater
+fresh water from natural spring
+Freshwater
+fresh water
+freshwater Antarctic lake
+Freshwater biome
+Freshwater Creek
+freshwater farm
+freshwater lake
+freshwater Microcoleus biofilm
+freshwater RAS system, circulating water
+freshwater sample collected from lake
+Frog
+Gallus gallus
+garden soil
+gas
+gel
+Genome sequence of potato-root associated bacteria
+ginseng field
+ginseng soil
+glacial ice
+glacial lake
+glacier metagenome
+glass
+Global Human Gut MAGs
+goose
+granite
+granular sediment
+grassland
+grassland soil
+gravel
+Green lizard
+greenhouse soil
+ground water
+groundwater
+groundwater
+groundwater filtered through a 3.0 um filter
+groundwater filtered through a a 3.0 um filter and then through a 0.2 um filter
+groundwater metagenome
+Guttural pouch aspirate
+hand hygiene sink aerator of the cardio-thoracic ICU ward of National University Hospital
+hand hygiene sink aerator of the neonatal ICU ward of National University Hospital
+hand hygiene sink aerator of the surgical stepdown ward in National University Hospital
+Hard water rivulet
+hard water rivulet
+hay
+hide
+High-throughput recovery of microbial communities from aquifer samples in Utah, USA
+histosol
+holomictic lake
+homo
+homo sapiens
+Homo sapiens-associated habitat ENVO:00009003
+Hoolock hoolock
+horse manure
+Horse, Equus caballus
+Hospital
+hospital NICU surfaces and sink samples
+Human
+human
+Human (infant)
+Human (Male)
+Human (Newborn)
+human bronchial secretion
+human bronchial secretion
+human gut
+Human oral cavity
+human oral cavity
+Human sample
+human specimen
+human stool
+Human-associated habitat
+human-associated habitat ENVO:00009003
+humic lake
+humus
+Hyalella azteca
+hydrothermal fluid
+hypereutrophic water
+hypoxic lake
+ice
+ice-encased melt pond
+Ictalurus punctatus
+igneous rock
+impact crater lake
+In this study we report the analyze the genomic diversity of Tenacibaculum species that includes pathogens of marine fish
+Indoor Water Fountain
+industrial wastewater
+infants
+infected duck
+inorganic material
+inorganically contaminated sediment
+intraglacial lake
+isolated from the rhizosphere of switch grass, was carried out to assemble its draft genome
+kid
+kids
+Kulunda Steppe
+lactc acid beverage
+lake
+lake
+lake sediment
+Lake Taihu
+lake water
+Lake water
+lake with an anoxic hypolimnion
+lake with an oxic hypolimnion
+landslide lake
+large lake biome
+Lathyrus japonicus
+lava
+leachate
+leafy wood soil
+leptosol
+Leymus mollis
+lignite
+limestone
+liquid water
+loam
+longfin eel
+Lubomirskia baikalensis
+lung sample from infected duck
+lung sample from infected duck
+luvisol
+Macaca mulatta
+man
+mangrove
+mangrove soil
+meadow soil
+mediterranean forest
+mediterranean grassland
+mediterranean savanna
+mediterranean shrubland
+mediterranean woodland
+Meleagris gallopavo (domesticated turkey)
+melt pond
+meltwater
+meromictic lake
+mesotrophic lake
+mesotrophic water
+Metagenome or environmental sample from activated sludge metagenome
+Metagenomes from NICU surfaces and sink samples
+metal contaminated soil
+metamorphic rock
+Microbe isolated from upstream water of river Ganges, Varanasi, Uttar Pradesh
+Milk bottle rinse
+mine tailing
+Mine wastewater
+mineral soil
+mist
+mixed forest
+montane desert
+montane grassland
+montane savanna
+montane shrubland
+Mosquito, Anopheles gambiae
+Moss sample of penguin habitat
+Mouth of a dog
+muddy water
+multiyear ice
+Musca domestica
+natural gas
+natural lake
+necromass
+Nest material from social spiders Stegodyphus dumicola
+newborn
+Nile tilapia
+nitisol
+nursing call button in hospital intensive care unit
+oil
+oil contaminated soil
+oil field production water
+oligotrophic lake
+oligotrophic water
+oncorhynchus mykiss
+ore
+organic material
+oxbow lake
+oxic lake
+paddy field soil
+paint
+Panicum virgatum
+paraffin
+paraffin wax
+particulate matter
+pasture soil
+patient
+peat soil
+Pelophylax nigromaculatus
+Pennsylvania Magee Womens Hospital
+permafrost
+petroleum
+phaeozem
+pig
+pig manure
+pigeons
+Pipa parva
+plant litter
+plastic
+pneumonic lung of a domesticated turkey
+podzol
+polar desert
+polluted lake
+pond soil
+pond water
+Ponds
+Populus alba
+poultry litter
+rainwater
+Rana pipiens
+rangeland
+raw cow's milk
+raw primary sludge
+red soil
+regolith
+Rhesus monkey, Macaca mulatta
+rhizosphere
+Rhizosphere of plant
+Rhizosphere of switchgrass
+rhizosphere soil
+rice straw
+Rifle well CD01 at time point 1 / A; 5m depth; 0.2 filter
+Rifle well CD01 at time point 6 / F; 5m depth; 0.1 filter
+Rifle well FP-101 under low O2 conditions; 1.2 micron filter; full assembly
+rinsed milk bottle
+River
+river sediment
+river water
+rock
+rocky sand
+Rotting apple
+rural stormwater
+rusty iron plate
+saline soil
+sapiens
+savanna
+savanna soil
+secondary sludge
+Secondary wastewater
+sediment surface
+Seomjin river
+sewage
+shale
+shrubland
+sick duck
+silage
+silt
+Silurus asotus
+Silurus glanis
+sludge
+small lake biome
+smoke
+snow
+soil
+soil from tomato rhizosphere
+Soil sample of penguin habitats
+Solanum lycopersicum
+Solanum tuberosum L.
+solonchak
+soybean
+Soybean, Glycine max
+spring water
+spruce forest soil
+stagnosol
+Stegodyphus dumicola
+steppe soil
+sterile water
+stormwater
+straw
+stream sediment
+stream water
+subpolar coniferous forest
+subtropical broadleaf forest
+subtropical coniferous forest
+subtropical desert
+subtropical dry broadleaf forest
+subtropical grassland
+subtropical moist broadleaf forest
+subtropical savanna
+subtropical shrubland
+subtropical woodland
+supraglacial lake
+surface of Island
+Surface sediment of the Jiulong River
+surface soil
+tap water
+tap water (softened)
+tarn
+tectonic lake
+teenager
+temperate broadleaf forest
+temperate coniferous forest
+temperate desert
+temperate grassland
+temperate mixed forest
+temperate savanna
+temperate shrubland
+temperate woodland
+Terrestrial
+terrestrial
+terrestrial metagenome
+terrestrial samples
+terrestrial samples
+terrigenous sediment
+Thale cress, Arabidopsis thaliana
+the mouth of a healthy dog
+the rhizosphere of switch grass, was carried out to assemble its draft genome
+Thiocyanate ramp bioreactor
+Thiocyanate stock biobioreactor
+Thiocyanate stock bioreactor
+Tibetan lacustrine sediment
+tomato
+tomato rhizosphere
+Tomato, Solanum lycopersicum
+travertine
+tropical broadleaf forest
+tropical coniferous forest
+tropical desert
+tropical dry broadleaf forest
+tropical grasslandseawater
+tropical moist broadleaf forest
+tropical savanna
+tropical shrubland
+tropical woodland
+tundra
+Turkey
+Turkey, Meleagris gallopavo
+Turkey, respiratory tract; United Kingdom
+underground lake
+underground water
+Untreated municipal wastewater
+Uranium ore deposits soil
+urban
+urban stormwater
+urine of a patient with fever
+Vicia faba
+village
+volcanic ash
+volcanic rock
+waste water
+waste water treatment system
+Wastewater
+wastewater metagenome
+Wastewater treatment plant
+water column exposed melt pond
+water tap in the ICU
+Waterfall
+wax
+whole mosquito body
+wood
+woodland
+Xenopus laevi
+xeric shrubland
+Yellow River
