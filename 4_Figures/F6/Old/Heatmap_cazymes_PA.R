@@ -9,7 +9,7 @@ library("FactoMineR")
 fig <- function(width, heigth){
      options(repr.plot.width = width, repr.plot.height = heigth)}
 
-data <- read.csv("/home/gomes/silva/Correct_datasets/Mean_FS_byGenus/Cazyme_counts_PA_mean_family_genus.csv", header=T, row.names="Genus")
+data <- read.csv("Cazyme_counts_PA_mean_family_genus.csv", header=T, row.names="Genus")
 data_matrix <- data[ , !names(data) %in% c("orfs", "index","Origin","Genus", "Family")]
 data_matrix <- as.matrix(data_matrix)
 data_matrix_transpose <- t(data_matrix)

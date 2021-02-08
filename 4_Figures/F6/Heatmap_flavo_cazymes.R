@@ -1,6 +1,6 @@
 library(ComplexHeatmap)
 library(circlize)
-library(tidyverse)
+library("tidyverse")
 library(vegan)
 library("factoextra")
 library(RColorBrewer)
@@ -9,7 +9,7 @@ library("FactoMineR")
 fig <- function(width, heigth){
      options(repr.plot.width = width, repr.plot.height = heigth)}
 
-dataPA <- read.csv("/home/gomes/silva2/5_Visualization/Mean_FS_byOrigin_flavo/Cazyme_PA_wt_metadata_origin_flavo_mean_Origin.csv", header=T, row.names="Origin")#, row.names="Genus")
+dataPA <- read.csv("Cazyme_PA_wt_metadata_origin_flavo_mean_Origin.csv", header=T, row.names="Origin")#, row.names="Genus")
 data_matrixPA <- dataPA[ , !names(dataPA) %in% c("orfs", "index","Origin","Genus", "Family", "Genome")]
 data_matrixPA <- as.matrix(data_matrixPA)
 data_matrix_transposePA <- t(data_matrixPA)
@@ -32,7 +32,7 @@ colnames(data_matrix_transposePA) <- c("Marine", "Not Marine")
 library("RColorBrewer")
 display.brewer.all(colorblindFriendly = TRUE)
 #mycol <- colorRampPalette(brewer.pal(10, "RdYlBu"))(256)
-mycol <- colorRampPalette(brewer.pal(9, "YlOrRd"))(20)
+mycol <- rev(colorRampPalette(brewer.pal(9, "RdBu"))(20))
 
 hmap <- Heatmap(as.matrix(data_matrix_transposePA),
                 name = "Mean Presence per Origin",
@@ -43,8 +43,8 @@ hmap <- Heatmap(as.matrix(data_matrix_transposePA),
     heatmap_width = unit(9, "cm"), 
     heatmap_height = unit(9, "cm"),
     
-    use_raster = TRUE, 
-    raster_device = "png",   
+    #use_raster = TRUE, 
+    #raster_device = "png",   
     #raster_by_magick = TRUE,
 
     row_km = 4, row_km_repeats = 100,
@@ -72,8 +72,8 @@ hmap <- Heatmap(as.matrix(data_matrix_transposePA),
     cluster_columns = TRUE, show_column_dend = FALSE, 
     
     heatmap_legend_param = list(title_gp = gpar(fontsize = 8, fontface = "bold" ), labels_gp = gpar(fontsize = 8),
-                                direction = "horizontal", legend_width = unit(3.5, "cm"), labels = c("0%", "50%", "100%"))
-                               ) 
+                               direction = "horizontal", legend_width = unit(3.5, "cm")))#, labels = c("0%","",""  ,"100%")) #"50%
+                                
 
 draw(hmap,  heatmap_legend_side = "bottom") # merge_legend = FALSE, heatmap_legend_side = "bottom", annotation_legend_side = "right"
 
