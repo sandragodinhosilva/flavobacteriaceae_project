@@ -9,8 +9,8 @@ library("FactoMineR")
 fig <- function(width, heigth){
      options(repr.plot.width = width, repr.plot.height = heigth)}
 
-dataPA <- read.csv("Caz_merops_PA_origin_mean_Origin.csv", header=T, row.names="Origin")#, row.names="Genus")
-#dataPA <- read.csv("Caz_merops_PA_origin_mean_Origin_noGH23.csv", header=T, row.names="Origin")#, row.names="Genus")
+#dataPA <- read.csv("Caz_merops_PA_origin_mean_Origin.csv", header=T, row.names="Origin")#, row.names="Genus")
+dataPA <- read.csv("Caz_merops_PA_origin_mean_Origin_noGH23.csv", header=T, row.names="Origin")#, row.names="Genus")
 
 data_matrixPA <- dataPA[ , !names(dataPA) %in% c("orfs", "index","Origin","Genus", "Family", "Genome")]
 data_matrixPA <- as.matrix(data_matrixPA)
