@@ -106,4 +106,4 @@ for k, files in d_files.items():
 
 df_types = pd.DataFrame({k:Counter(v) for k, v in d_track.items()}).fillna(0).astype(int)
 
-df_types.to_csv("/home/sandra/phd_research/0_Flavo_project/merops_counts.csv")
+df_types.to_csv("merops_counts.csv")
