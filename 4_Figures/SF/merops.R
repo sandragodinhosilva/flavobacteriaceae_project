@@ -9,21 +9,16 @@ library("FactoMineR")
 fig <- function(width, heigth){
      options(repr.plot.width = width, repr.plot.height = heigth)}
 
-#dataPA <- read.csv("Caz_merops_PA_origin_mean_Origin.csv", header=T, row.names="Origin")#, row.names="Genus")
-dataPA <- read.csv("caz_merops_PA_metadata_mean_Origin.csv", header=T, row.names="Origin")#, row.names="Genus")
+dataPA <- read.csv("merops_PA_metadata_mean_Origin.csv", header=T, row.names="Origin")#, row.names="Genus")
 
 data_matrixPA <- dataPA[ , !names(dataPA) %in% c("orfs", "index","Origin","Genus", "Family", "Genome")]
 data_matrixPA <- as.matrix(data_matrixPA)
 data_matrix_transposePA <- t(data_matrixPA)
 data_matrix_transposePA <- as.matrix(data_matrix_transposePA)
-#head(data_matrix_transpose)
-#data_hellinger <- decostand(data_matrix, method="hellinger")
 
 head(data_matrixPA)
 
-#pdf("heatmap_cazymes.pdf",onefile = T) # width = 8, height = 8,
-
-svg(file="filename2.svg")
+svg(file="merops_PA_metadata_mean_Origin.svg")
 
 #largura, altura:
 fig(8, 8)
@@ -55,7 +50,7 @@ hmap <- Heatmap(as.matrix(data_matrix_transposePA),
     #raster_device = "png",   
     #raster_by_magick = TRUE,
 
-    row_km = 7, row_km_repeats = 100,
+    row_km = 8, row_km_repeats = 100,
     column_km = 1, column_km_repeats = 100,
                                
    # column_title = "Origin", 
