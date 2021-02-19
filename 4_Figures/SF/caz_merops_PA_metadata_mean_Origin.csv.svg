@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="504pt" viewBox="0 0 504 504" version="1.1">
-<g id="surface26">
-</g>
-</svg>
-sible" id="glyph0-0">
+<defs>
+<g>
+<symbol overflow="visible" id="glyph0-0">
 <path style="stroke:none;" d=""/>
 </symbol>
 <symbol overflow="visible" id="glyph0-1">
@@ -191,7 +190,7 @@ sible" id="glyph0-0">
 </symbol>
 </g>
 </defs>
-<g id="surface37">
+<g id="surface6">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill-rule:nonzero;fill:rgb(50.196078%,0%,14.901961%);fill-opacity:1;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 174.378906 124.292969 L 252.960938 124.292969 L 252.960938 118.785156 L 174.378906 118.785156 Z M 174.378906 124.292969 "/>
 <path style="fill-rule:nonzero;fill:rgb(56.078431%,0%,14.901961%);fill-opacity:1;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 174.378906 129.800781 L 252.960938 129.800781 L 252.960938 124.292969 L 174.378906 124.292969 Z M 174.378906 129.800781 "/>
