@@ -21,7 +21,7 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath290"><path
@@ -13884,8 +13884,8 @@
      showguides="false"
      units="mm"
      inkscape:zoom="0.87435324"
-     inkscape:cx="507.86986"
-     inkscape:cy="373.60015"
+     inkscape:cx="517.58246"
+     inkscape:cy="429.19019"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -19546,7 +19546,7 @@
      sodipodi:role="line"
      id="tspan33048"
      x="19.910048"
-     y="-359.15308">b</tspan><tspan
+     y="-359.15308">B</tspan><tspan
      sodipodi:role="line"
      id="tspan33050"
      x="19.910048"
@@ -19567,7 +19567,7 @@
      sodipodi:role="line"
      id="tspan33073"
      x="19.614735"
-     y="-83.753723">c</tspan></text>
+     y="-83.753723">C</tspan></text>
 
 
 
@@ -23521,7 +23521,7 @@
      sodipodi:role="line"
      id="tspan45202"
      x="20.205359"
-     y="-752.99194">a</tspan><tspan
+     y="-752.99194">A</tspan><tspan
      sodipodi:role="line"
      id="tspan45204"
      x="20.205359"
