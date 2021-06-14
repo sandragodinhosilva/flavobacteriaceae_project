@@ -58,7 +58,7 @@ hmap <- Heatmap(as.matrix(data_matrix_transposePA),
     
     na_col = "white",            
                             
-    heatmap_width = unit(9, "cm"), 
+    heatmap_width = unit(7, "cm"), 
     heatmap_height = unit(9, "cm"),
     
     #use_raster = TRUE, 
