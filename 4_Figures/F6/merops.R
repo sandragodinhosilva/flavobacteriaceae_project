@@ -16,7 +16,15 @@ data_matrixPA <- as.matrix(data_matrixPA)
 data_matrix_transposePA <- t(data_matrixPA)
 data_matrix_transposePA <- as.matrix(data_matrix_transposePA)
 
-head(data_matrixPA)
+
+data_matrix_transposePA[data_matrix_transposePA == 0] <- NA
+
+data_matrix_transposePA <- log10(data_matrix_transposePA)
+
+data_matrix_transposePA[is.na(data_matrix_transposePA)] <- -3
+
+
+
 
 svg(file="merops_PA_metadata_mean_Origin.svg")
 
@@ -31,6 +39,8 @@ display.brewer.all(colorblindFriendly = TRUE)
 #mycol <- colorRampPalette(brewer.pal(10, "RdYlBu"))(256)
 #mycol <- colorRampPalette(brewer.pal(3, "Reds"))(2)
 mycol <- colorRampPalette(brewer.pal(9, "YlOrRd"))(256)
+
+
 
 library(viridis)
 
