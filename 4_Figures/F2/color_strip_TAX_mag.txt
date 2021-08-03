@@ -51,7 +51,7 @@ LEGEND_LABELS MAG Cultivated
 STRIP_WIDTH 40
 
 #left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
-#MARGIN 40
+MARGIN 40
 
 #border width; if set above 0, a border of specified width (in pixels) will be drawn around the color strip 
 #BORDER_WIDTH 2
