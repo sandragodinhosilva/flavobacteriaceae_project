@@ -14,10 +14,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="SF1.svg"
+   sodipodi:docname="SF2.svg"
    inkscape:export-filename="C:\Users\Sandra\OneDrive - Universidade de Lisboa\PhD_Research\2_Chapter2_Flavobacteriaceae\flavobacteriaceae_project\4_Figures\SF2\SF2.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs2">
     <clipPath
@@ -14308,16 +14308,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="430.56086"
-     inkscape:cy="877.77778"
+     inkscape:cx="536.85989"
+     inkscape:cy="187.72347"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1431"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:snap-text-baseline="true"
      inkscape:document-rotation="0">
@@ -36846,7 +36846,7 @@
        width="100%"
        height="100%"
        style="fill:#262626"
-       transform="matrix(0.01995612,-0.01995612,-0.01995612,-0.01995612,75.702837,287.80638)" />
+       transform="matrix(0.01995612,-0.01995612,-0.01995612,-0.01995612,76.17699,284.72183)" />
     <use
        x="77.783203"
        xlink:href="#ArialMT-110-7"
